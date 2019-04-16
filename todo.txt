@@ -1,0 +1,14 @@
+Battleship todo: 
+
+1. Figure out how to create a table in Vue.js X 
+2. Assing ID's to each individual td X 
+3. How to create random 1 td sized ships X
+4. Create bigger ships
+5. Make sure they don't overlap 
+6. Create random ships all sizes
+7. Get click/input from user X
+8. Detect if it's a hit or a miss X (Försökte lägga på klasser men fungerar ju inte riktigt) 
+9. Detect when all ships have been hit 
+10. Display game over when that happens 
+11. Reset button
+(12. In future: mulitplayer?)
